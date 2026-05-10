@@ -3,7 +3,7 @@ name: Troubleshooting
 about: 트러블슈팅 로그를 기록합니다.
 title: 2026-05-10-api-token-error
 labels: BE
-assignees: ywoo121
+assignees: ywoo121, kingwhangzang
 
 ---
 
