@@ -1,0 +1,27 @@
+- name: "🐞bug"
+  color: "d73a4a"
+  description: "버그 리포트"
+
+- name: "✨feature"
+  color: "0e8a16"
+  description: "새로운 기능 제안"
+
+- name: "🔧enhancement"
+  color: "84b6eb"
+  description: "기존 기능 개선"
+
+- name: "♻️refactor"
+  color: "5319e7"
+  description: "코드 리팩토링"
+
+- name: "📚docs"
+  color: "0075ca"
+  description: "문서 관련 작업"
+
+- name: "❓question"
+  color: "cc317c"
+  description: "질문 또는 논의가 필요한 이슈"
+
+- name: "🧹chore"
+  color: "f9d0c4"
+  description: "기타 잡무 (예: 빌드 설정, 의존성 수정 등)"
