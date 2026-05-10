@@ -1,3 +1,12 @@
+---
+name: chore
+about: 기타 잡무 (빌드 설정, 리팩토링)
+title: "[CHORE]"
+labels: ''
+assignees: ywoo121
+
+---
+
 ## 🧹 작업 내용
 수행하려는 잡무(빌드 설정, 리팩토링 등)를 간결하게 설명해주세요.
 

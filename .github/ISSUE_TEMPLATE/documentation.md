@@ -1,3 +1,12 @@
+---
+name: documentation
+about: 문서 작업
+title: "[DOCUMENT]"
+labels: ''
+assignees: ywoo121
+
+---
+
 ## 📚 문서 작업 내용
 작성하거나 수정하려는 문서 내용을 간결히 설명해주세요.
 

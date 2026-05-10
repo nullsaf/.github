@@ -1,3 +1,12 @@
+---
+name: enhancement
+about: 기존 기능 개선
+title: "[ENHANCEMENT]"
+labels: ''
+assignees: ywoo121
+
+---
+
 ## 🔧 개선할 기능
 개선하고 싶은 기존 기능을 간결하게 설명해주세요.
 

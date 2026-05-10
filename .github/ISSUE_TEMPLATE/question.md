@@ -1,3 +1,12 @@
+---
+name: Question
+about: 질문/논의사항
+title: "[Question]"
+labels: ''
+assignees: ywoo121
+
+---
+
 ## ❓ 질문 또는 논의 주제
 궁금한 점이나 논의하고 싶은 주제를 구체적으로 작성해주세요.
 

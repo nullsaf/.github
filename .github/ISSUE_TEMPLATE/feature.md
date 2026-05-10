@@ -1,3 +1,12 @@
+---
+name: feature
+about: 새로운 기능 제안
+title: "[FEATURE]"
+labels: ''
+assignees: ywoo121
+
+---
+
 ## ✨ 설명
 추가하고 싶은 기능을 간결하고 명확하게 설명해주세요.
 
